@@ -1,0 +1,13 @@
+Based on the source material provided, here are the links and identifying information for the 11 sources used in the presentation:
+
+1.  **Stanford HAI 2026 AI Index Report (Economy):** [https://hai.stanford.edu/ai-index/2026-ai-index-report/economy](https://hai.stanford.edu/ai-index/2026-ai-index-report/economy)
+2.  **PwC 2026 Global AI Jobs Barometer:** [pwc.com/aijobsbarometer](https://www.pwc.com/aijobsbarometer)
+3.  **IBM Think - What is AI in Business?:** [https://www.ibm.com/think/topics/artificial-intelligence-business](https://www.ibm.com/think/topics/artificial-intelligence-business)
+4.  **MDPI Systems 2025 - The Impacts of AI on Business Innovation:** [https://doi.org/10.3390/systems13040264](https://doi.org/10.3390/systems13040264)
+5.  **Forrester - AI Usage in US Marketing Agencies 2026:** [https://www.forrester.com/press-newsroom/forrester-nine-in-10-us-marketing-agencies-use-ai-to-cut-costs-at-the-expense-of-creativity/](https://www.forrester.com/press-newsroom/forrester-nine-in-10-us-marketing-agencies-use-ai-to-cut-costs-at-the-expense-of-creativity/)
+6.  **MicroSourcing - The Impact of AI on Business:** [https://www.microsourcing.com/learn/blog/the-impact-of-ai-on-business/](https://www.microsourcing.com/learn/blog/the-impact-of-ai-on-business/)
+7.  **FIU College of Business - The Competitive Advantage of AI:** [https://business.fiu.edu/academics/graduate/insights/posts/competitive-advantage-of-using-ai-in-business.html](https://business.fiu.edu/academics/graduate/insights/posts/competitive-advantage-of-using-ai-in-business.html)
+8.  **Microsoft Work Trend Index Annual Report 2025:** *2025: The Year the Frontier Firm Is Born* (PDF source)
+9.  **McKinsey & Company:** *Seizing the agentic AI advantage* (PDF source)
+10. **International Monetary Fund (IMF):** *Gen-AI: Artificial Intelligence and the Future of Work* (PDF source)
+11. **World Bank (Open Knowledge Repository):** *Digital Progress and Trends Report 2025* (PDF source)
